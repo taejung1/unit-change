@@ -1,0 +1,19 @@
+{
+  "name": "unit-change",
+  "version": "0.0.2",
+  "description": "change the unit of a number",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+github.com/taejung1/unit-change.git"
+  },
+  "bugs": {
+    "url": "https://github.com/taejung1/unit-change/issues"
+  },
+  "author": "taejung < taejung@taejung.xyz >",
+  "homepage": "https://github.com/taejung1/unit-change#readme",
+  "license": "MIT"
+}
